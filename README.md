@@ -8,3 +8,5 @@ I will use this repository to distract my whole class with the cocomelon intro p
 The link is maxvorster.github.io/cocomelon/.
 
 You may use this as it says in the licence.
+
+## CoComelon is owned by Moonbug Entertainment. I own nothing.
